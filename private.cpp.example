@@ -1,0 +1,8 @@
+//無線LANのSSID
+char *ssid = "hogehoge";
+
+//無線LANのパスワード
+char *password = "fugafuga";
+
+//iftttのwebhook
+char *iftttKey = "https://maker.ifttt.com/trigger/hogefuga";
