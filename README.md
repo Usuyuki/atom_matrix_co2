@@ -9,6 +9,8 @@ SGP32という激安Co2センサとATOM MatrixというLEDが付いたマイコ�
 
 オンライン授業のお供に。
 
+![IMG20210822160709 (1)_0](https://user-images.githubusercontent.com/63891531/134143192-fbd49d46-d243-4c46-bcd3-85976fd70dbe.jpg)
+<img width="267" alt="lineNotify" src="https://user-images.githubusercontent.com/63891531/134143235-42b9805a-e532-4c7d-85e8-71fe773df2f1.png">
 
 ## 参考
 atom で文字表示
